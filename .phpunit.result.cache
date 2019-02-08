@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":188:{a:2:{s:7:"defects";a:2:{s:20:"Score::testCalculate";i:5;s:24:"ScoreTest::testCalculate";i:4;}s:5:"times";a:2:{s:20:"Score::testCalculate";d:0.009;s:24:"ScoreTest::testCalculate";d:0.011;}}}
